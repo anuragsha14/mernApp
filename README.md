@@ -44,6 +44,7 @@ Docker & Docker Compose (if you want to containerize and run all services)
 Verify:
     docker -v
     docker compose version
+    
 
 # how to build from docker compose
 
